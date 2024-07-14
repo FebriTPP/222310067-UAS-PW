@@ -1,6 +1,6 @@
 # About this project
 
-Tugas Akhir PPB dan PW
+Tugas Akhir PW
 
 ## Requirements
 
